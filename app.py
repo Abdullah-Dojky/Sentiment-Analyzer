@@ -12,7 +12,7 @@ def load_model():
     )
 
 
-st.title("Sentiment Analyzer")
+st.title("Sentiment Analyzer — Abdullah Abdul Wahid (B04-0923-000007) & Harmain Ansar (B04-0923-000006)")
 st.caption("Type a sentence and get an instant POSITIVE / NEGATIVE verdict with a confidence score.")
 
 txt = st.text_area("Your text:", height=120, placeholder="e.g. I absolutely loved this movie!")
